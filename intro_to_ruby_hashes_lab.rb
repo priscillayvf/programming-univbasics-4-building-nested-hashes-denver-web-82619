@@ -1,5 +1,5 @@
 def base_hash
-  monopoly = Hash.new
+  # monopoly = Hash.new
   monopoly = {
     :railroads => {
     }
